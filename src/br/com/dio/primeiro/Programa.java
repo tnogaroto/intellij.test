@@ -11,8 +11,8 @@ public class Programa {
        Gato gato = new Gato();
         System.out.println(gato);
 
-        Livro1 = new Livro ( nome: "o problema", numPaginas: 300);
-        System.out.println(livro1);
+        Livro1 = new Livro (  "o problema",  300);
+        System.out.println(Livro1);
 
 
         /*int a =5;
