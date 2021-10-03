@@ -12,7 +12,7 @@ public class calculadora {
         a= scan.nextInt();
         System.out.println("Digite o segundo número: ");
         b= scan.nextInt();
-
+        
         int somar = somar(a, b);
         int subtrair = subtrair(a, b);
         double dividir = dividir(a, b);
